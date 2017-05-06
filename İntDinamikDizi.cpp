@@ -1,11 +1,11 @@
 #include <iostream>
-#include "›ntDinamikDizi.h"
+#include "√ùntDinamikDizi.h"
 
 
 int main()
 {
 
-	›ntDinamikDizi d;
+	√ùntDinamikDizi d;
 
 
 	for (int i = 0;i<10;i++) {
